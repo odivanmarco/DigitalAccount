@@ -3,7 +3,6 @@ C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\obj\Debug\net6.0\
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
-C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\appsettings.json
@@ -36,3 +35,15 @@ C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Infra.Repository.dll
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Application.pdb
 C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Infra.Repository.pdb
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\FluentValidation.Extensions.Br.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DTI Digital\Desktop\EstudoUdemy\DigitalAccount\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
